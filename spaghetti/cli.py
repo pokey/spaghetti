@@ -6,9 +6,7 @@ import click
 @click.command()
 def main(args=None):
     """Console script for spaghetti"""
-    click.echo("Replace this message by putting your code into "
-               "spaghetti.cli.main")
-    click.echo("See click documentation at http://click.pocoo.org/")
+    pass
 
 
 if __name__ == "__main__":
